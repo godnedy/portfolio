@@ -1,9 +1,13 @@
 package com.company;
+/*
+ * Created by Edyta on 28.01.2017.
+ */
+
 import java.io.*;
 import java.util.*;
 
 public class Quiz {
-    /* An easy quiz type game to illustrate usage of switch command, working on text files and exceptions handling*/
+    /* an easy quiz type game to illustrate usage of switch command, working on text files and exceptions handling*/
     //static int category;
     //static int numberOfAnsweredQuestions;
     //static int numberOfCorrectAnswers;
