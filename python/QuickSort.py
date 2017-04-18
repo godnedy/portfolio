@@ -1,5 +1,4 @@
 import random
-#NIE DO KONCA DZIALA - do poprawy
 
 random.seed()  # initialize random generator, where current time is seed parameter
 
@@ -51,7 +50,7 @@ class QuickSort:
         return table
 
 
-
+#TESTING
 y = QuickSort(1, 10000)
 y.table = [90, 20, 3, 4, 7, 15, 10, 8]
 y.sort(0, 7)
