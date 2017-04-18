@@ -38,7 +38,7 @@ class CountSort:
                 sortIndex += 1
         return tableToSort
 
-    #doDopracowania
+    
     def sortStable(self, numberOfObjects):
         tableToSort = CountSort.randomTable(numberOfObjects, self.minValue, self.maxValue)
         sortedTable = [0] * numberOfObjects
